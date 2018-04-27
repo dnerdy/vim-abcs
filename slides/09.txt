@@ -1,0 +1,9 @@
+"o" is for "open"
+
+You can create (open) a new line below the current line by typing "o"
+You can create a new line above by typing "O"
+
+
+1. Line one. Add line two below.
+############################################################
+4. Line four. Add line three above.

@@ -1,0 +1,21 @@
+"/" (slash) is for "search"
+
+Moving around with "j" and "k" can be a bit tedious.
+
+You can move around by searching.
+
+Type "/whatever" to search for the text "whatever"
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOVE DOWN TO THIS LINE AND DELETE IT BY SEARCHING FOR THE TEXT "HERE"

@@ -1,0 +1,11 @@
+Let's move around the file!
+
+"j" is under your index finger of your right hand.
+"j" moves down.
+
+MOVE DOWN TO THIS LINE
+
+"k" is next to j, under your middle finger.
+"k" moves up.
+
+MOVE BACK UP TO THE TOP OF THE FILE, THEN PRESS "+" TO GO TO THE NEXT SLIDE

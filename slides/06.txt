@@ -1,0 +1,16 @@
+"*" will search for the text under the cursor.
+
+SEARCH FOR THE TEXT "pretty_print" BY MOVING TO THE LINE BELOW AND PRESSING "*"
+
+pretty_print
+
+def pretty_print(message):
+    print 'Pretty {}'.format(message)
+
+for word in 'tree mountain good'.split(' '):
+    pretty_print(word)
+
+# Pretty cool... pretty_print() should be a builtin function
+
+def not_as_cool_print(message):
+   print 'not as cool {}'.format(message)

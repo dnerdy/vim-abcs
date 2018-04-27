@@ -1,0 +1,11 @@
+Fire up vim:
+
+    vim
+
+And then start the slides:
+
+    :source start.vim
+
+Go to the next slide with "+" and the previous slide with "_".
+
+Enjoy!

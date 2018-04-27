@@ -1,0 +1,21 @@
+"c" is for "change"
+
+"i" is for "in"
+
+Change "everything in these quotes to your name" (use ci"... change in quotes))
+
+TRY ci{ (change in brackets)
+
+int main(int argc, char *argv[]) {
+    int i = 1;
+    i += 1;
+    return 2;  // 3
+}
+
+TRY ci' (change in single quote)
+
+(maybe use "/" to search for "value")
+
+{
+    iLikeThisKey: 'But I do not like this value',
+}

@@ -1,0 +1,13 @@
+"d" is for "delete"
+
+"p" is for "paste"
+
+REORDER THE LINES BELOW
+
+"p" will paste below the line the cursor is on
+"P" will paste above (P is taller... above?)
+
+2. Move me down
+1. Line one. Don't move me.
+4. Line four. Don't move me.
+3. Move me up

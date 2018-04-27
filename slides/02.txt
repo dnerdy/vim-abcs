@@ -1,0 +1,7 @@
+Also, you can press "_" to go back to the previous slide!
+
+"d" is for "delete"
+
+You can delete a line by pressing "dd"
+
+MOVE DOWN TO THIS LINE AND DELETE IT

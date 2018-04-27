@@ -1,0 +1,6 @@
+"A" is for "append"
+
+"A" will put you into insert mode at the end of the line.
+
+
+ARE YOU LIKING VIM? THINK CAREFULLY AND THEN TYPE "YES" OR "NO" HERE:

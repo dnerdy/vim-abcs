@@ -1,0 +1,23 @@
+"g" is for "go"
+
+GO TO THE END OF THE FILE WITH "G"
+
+
+This is some poorly formatted text.
+Some lines are short.
+Some lines are way too long... I mean longer than our linter would be happy with at least.
+Give it some style.
+
+SET THE FILE TYPE TO PHP ":set filetype=php"
+
+# gq even works with comments. Try reformatting this comment
+# line you formatted the paragraph above. Then
+# follow the directions below.
+
+COPY THE ABOVE BLOCK (visual line mode, "y" and "p")
+THEN INDENT THE BLOCK AND GIVE IT SOME STYLE.
+
+// This works for all sorts of comments. We set the file type to php because php supports a bunch of comment types.
+
+
+GO BACK TO THE BEGINNING OF THE FILE WITH "gg"

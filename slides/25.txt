@@ -1,0 +1,16 @@
+":s" is for "search and replace"
+
+MAKE THE FILE ALL GOOD WITH ":%s/bad/good/g"
+
+
+good
+good
+bad
+good
+bad
+bad
+bad
+bad
+bad
+bad
+good

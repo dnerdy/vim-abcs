@@ -1,0 +1,22 @@
+"n" is for "next"
+
+"n" will find the next match
+"N" will find the previous match
+
+DELETE THE FOLLOWING LINES IN ORDER BY SEARCHING FOR THE TEXT "HERE"
+
+
+
+
+1. HERE. DELETE ME
+
+
+3. THEN HERE. DELETE ME.
+
+
+4. FINALLY HERE. DELETE ME.
+
+
+
+
+2. AND HERE. DELETE ME.

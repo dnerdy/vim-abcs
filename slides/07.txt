@@ -1,0 +1,10 @@
+"u" is for undo
+
+DELETE ME
+AND DELETE ME
+
+NOW UNDO
+
+"^r" will redo
+
+GO BACK TO THE ORIGINAL STATE OF THIS FILE

@@ -1,0 +1,16 @@
+"J" is for "join"
+
+JOIN THE LINES BELOW BY MOVING TO "a" AND TYPING "J" A FEW TIMES
+
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i
+
+UNDO WITH "u"
+
