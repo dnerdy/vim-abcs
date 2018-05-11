@@ -2,7 +2,7 @@ Fire up vim:
 
     vim
 
-And then start the slides:
+And then start the slides (type this in vim):
 
     :source start.vim
 
