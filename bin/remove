@@ -1,0 +1,32 @@
+#!/bin/bash -eu
+
+set -o pipefail
+
+MYDIR=$(dirname $0)
+ROOT="$MYDIR/.."
+SLIDES="$ROOT/slides"
+
+if [ $# -ne 1 ]; then
+    cat <<EOF
+usage: $0 NUM
+
+Remove the slide at NUM position.
+EOF
+    exit 1
+fi
+
+remove_number=$1
+
+function slide_file() {
+    num=$1
+    echo "$SLIDES/$(printf %02d $num).txt"
+}
+
+rm "$(slide_file $remove_number)"
+
+slide_num=$(($remove_number + 1))
+
+while [[ -e $(slide_file $slide_num) ]]; do
+    mv "$(slide_file $slide_num)" "$(slide_file $(($slide_num - 1)))"
+    slide_num=$(($slide_num + 1))
+done
