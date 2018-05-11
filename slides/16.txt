@@ -1,5 +1,5 @@
-"d" is for "delete"
+"D" is for "delete"
 
-"w" is for "word"
+"D" will delete the remainder of a line.
 
-DELETE THIS SENTENCE ONE WORD AT A TIME (use "dw")
+KEEP THIS. BUT DELETE THIS.

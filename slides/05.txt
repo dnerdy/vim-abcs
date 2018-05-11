@@ -1,22 +1,21 @@
-"n" is for "next"
+"/" (slash) is for "search"
 
-"n" will find the next match
-"N" will find the previous match
+Moving around with "j" and "k" can be a bit tedious.
 
-DELETE THE FOLLOWING LINES IN ORDER BY SEARCHING FOR THE TEXT "HERE"
+You can move around by searching.
 
-
-
-
-1. HERE. DELETE ME
-
-
-3. THEN HERE. DELETE ME.
-
-
-4. FINALLY HERE. DELETE ME.
+Type "/whatever" to search for the text "whatever"
 
 
 
 
-2. AND HERE. DELETE ME.
+
+
+
+
+
+
+
+
+
+MOVE DOWN TO THIS LINE AND DELETE IT BY SEARCHING FOR THE TEXT "HERE"

@@ -1,13 +1,10 @@
-"d" is for "delete"
+"u" is for undo
 
-"p" is for "paste"
+DELETE ME
+AND DELETE ME
 
-REORDER THE LINES BELOW
+NOW UNDO
 
-"p" will paste below the line the cursor is on
-"P" will paste above (P is taller... above?)
+"^r" will redo
 
-2. Move me down
-1. Line one. Don't move me.
-4. Line four. Don't move me.
-3. Move me up
+GO BACK TO THE ORIGINAL STATE OF THIS FILE

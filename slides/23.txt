@@ -1,4 +1,7 @@
-SELECT THE ENTIRE FILE WITH "VG"
+"g" is for "go"
+
+GO TO THE END OF THE FILE WITH "G"
+
 
 This is some poorly formatted text.
 Some lines are short.
@@ -15,3 +18,6 @@ COPY THE ABOVE BLOCK (visual line mode, "y" and "p")
 THEN INDENT THE BLOCK AND GIVE IT SOME STYLE.
 
 // This works for all sorts of comments. We set the file type to php because php supports a bunch of comment types.
+
+
+GO BACK TO THE BEGINNING OF THE FILE WITH "gg"

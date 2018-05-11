@@ -1,7 +1,5 @@
 "d" is for "delete"
 
-"t" is for "to"
+"w" is for "word"
 
-CHANGE THIS LINE BY DELETING EVERYTHING UP TO: Hello there!
-
-(use "dtH" and "." to repeat the action)
+DELETE THIS SENTENCE ONE WORD AT A TIME (use "dw")

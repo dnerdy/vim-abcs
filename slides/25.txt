@@ -1,16 +1,17 @@
-":s" is for "search and replace"
+SELECT WITH SEARCH BY TYPING "V/comment" (and try "n")
 
-MAKE THE FILE ALL GOOD WITH ":%s/bad/good/g"
+This is some poorly formatted text.
+Some lines are short.
+Some lines are way too long... I mean longer than our linter would be happy with at least.
+Give it some style.
 
+SET THE FILE TYPE TO PHP ":set filetype=php"
 
-good
-good
-bad
-good
-bad
-bad
-bad
-bad
-bad
-bad
-good
+# gq even works with comments. Try reformatting this comment
+# line you formatted the paragraph above. Then
+# follow the directions below.
+
+COPY THE ABOVE BLOCK (visual line mode, "y" and "p")
+THEN INDENT THE BLOCK AND GIVE IT SOME STYLE.
+
+// This works for all sorts of comments. We set the file type to php because php supports a bunch of comment types.

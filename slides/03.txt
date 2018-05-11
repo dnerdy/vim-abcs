@@ -1,14 +1,7 @@
-DELETE THE LINES IN ORDER
+Also, you can press "_" to go back to the previous slide!
 
+"d" is for "delete"
 
-1. DELETE THIS LINE
-BUT NOT THIS LINE
-3. DELETE ME
+You can delete a line by pressing "dd"
 
-
-2. DELETE THIS ONE TOO!
-
-
-
-
-4. AND THIS ONE!
+MOVE DOWN TO THIS LINE AND DELETE IT

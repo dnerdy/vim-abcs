@@ -1,16 +1,22 @@
-"*" will search for the text under the cursor.
+"n" is for "next"
 
-SEARCH FOR THE TEXT "pretty_print" BY MOVING TO THE LINE BELOW AND PRESSING "*"
+"n" will find the next match
+"N" will find the previous match
 
-pretty_print
+DELETE THE FOLLOWING LINES IN ORDER BY SEARCHING FOR THE TEXT "HERE"
 
-def pretty_print(message):
-    print 'Pretty {}'.format(message)
 
-for word in 'tree mountain good'.split(' '):
-    pretty_print(word)
 
-# Pretty cool... pretty_print() should be a builtin function
 
-def not_as_cool_print(message):
-   print 'not as cool {}'.format(message)
+1. HERE. DELETE ME
+
+
+3. THEN HERE. DELETE ME.
+
+
+4. FINALLY HERE. DELETE ME.
+
+
+
+
+2. AND HERE. DELETE ME.

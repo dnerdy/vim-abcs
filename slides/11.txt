@@ -1,16 +1,12 @@
-"J" is for "join"
+"y" is for "yank" (copy)
 
-JOIN THE LINES BELOW BY MOVING TO "a" AND TYPING "J" A FEW TIMES
+You can yank a line by pressing "yy"
 
-a,
-b,
-c,
-d,
-e,
-f,
-g,
-h,
-i
+COPY THIS LINE AND PASTE IT BELOW.
+COPY THIS LINE AND PASTE IT BELOW.
+COPY THIS LINE AND PASTE IT BELOW.
+COPY THIS LINE AND PASTE IT BELOW.
 
-UNDO WITH "u"
+"." will repeat your last action (whatever it was)
 
+PASTE A FEW MOVE "COPY THIS LINES AND PASTE IT BELOW" LINES

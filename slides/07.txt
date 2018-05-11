@@ -1,10 +1,16 @@
-"u" is for undo
+"*" will search for the text under the cursor.
 
-DELETE ME
-AND DELETE ME
+SEARCH FOR THE TEXT "pretty_print" BY MOVING TO THE LINE BELOW AND PRESSING "*"
 
-NOW UNDO
+pretty_print
 
-"^r" will redo
+def pretty_print(message):
+    print 'Pretty {}'.format(message)
 
-GO BACK TO THE ORIGINAL STATE OF THIS FILE
+for word in 'tree mountain good'.split(' '):
+    pretty_print(word)
+
+# Pretty cool... pretty_print() should be a builtin function
+
+def not_as_cool_print(message):
+   print 'not as cool {}'.format(message)
