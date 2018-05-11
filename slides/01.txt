@@ -1,0 +1,10 @@
+Welcome to vim!
+
+Why would you want to learn vim?
+
+- When you ssh into a server, vim (or vi) will most likely be available
+- It's handy for working with comment line tools like git
+- It's nice for quick tweaks to files when working in the terminal
+- It's even nice for writing code (with the correct settings)
+
+TYPE "+" TO GO TO THE NEXT SLIDE
