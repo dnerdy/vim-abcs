@@ -3,10 +3,9 @@
 You can yank a line by pressing "yy"
 
 COPY THIS LINE AND PASTE IT BELOW.
-COPY THIS LINE AND PASTE IT BELOW.
-COPY THIS LINE AND PASTE IT BELOW.
-COPY THIS LINE AND PASTE IT BELOW.
+
+(remember, you can paste a line with "p")
 
 "." will repeat your last action (whatever it was)
 
-PASTE A FEW MOVE "COPY THIS LINES AND PASTE IT BELOW" LINES
+PASTE A FEW MOVE "COPY THIS LINES AND PASTE IT BELOW" LINES BY USING "."

@@ -2,4 +2,8 @@
 
 Type "C" to delete the remainder of a line and go into insert mode.
 
-CHANGE THIS LINE TO JUST: Hello there!
+CHANGE THIS LINE TO SOMETHING ELSE
+
+THEN:
+
+Keep this, CHANGE THIS

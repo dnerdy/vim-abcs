@@ -1,8 +1,6 @@
 "R" is for "replace"
 
-MOVE DOWN TO THE THIRD CHARACTER OF THE HASHES BELOW, TYPE "R" AND TYPE
-
-("l" is under your ring finger and will move to the right)
+MOVE DOWN TO HASHES BELOW, TYPE "R" AND THEN START TYPING
 
 ################################################################################
 
@@ -10,3 +8,8 @@ MOVE DOWN TO THE THIRD CHARACTER OF THE HASHES BELOW, TYPE "R" AND TYPE
 ## Here's an example of a nifty comment header #################################
 
 ## Here's another example. The delete key also works! ##########################
+
+
+BONUS: How do you type all those hashes?
+
+MOVE TO AN EMPTY LINE, THEN TYPE "80i#" FOLLOWED BY ESC (that's escape)

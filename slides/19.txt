@@ -3,3 +3,5 @@
 "D" will delete the remainder of a line.
 
 KEEP THIS. BUT DELETE THIS.
+
+("D" keeps you in command mode)

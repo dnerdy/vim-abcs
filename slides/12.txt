@@ -1,0 +1,15 @@
+"l" moves right.
+"l" is to the right of "j" and "k".
+
+"h" moves left.
+"h" is to the left of "j" and "k".
+
+MOVE TO THE FOLLOWING LETTERS IN ORDER
+         
+         
+A   B    
+         
+E       F     (NOW MOVE BACK IN REVERSE ORDER)
+         
+D   C    
+         

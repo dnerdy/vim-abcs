@@ -1,16 +1,13 @@
 "J" is for "join"
 
-JOIN THE LINES BELOW BY MOVING TO "a" AND TYPING "J" A FEW TIMES
+JOIN THE LINES BELOW BY MOVING TO THE LINE WITH "a" AND TYPING "J" A FEW TIMES
 
-a,
-b,
-c,
-d,
-e,
-f,
-g,
-h,
-i
+def func(a,
+         b,
+         c,
+         d,
+         e):
+    print "Joining is sweet!"
 
 UNDO WITH "u"
 
