@@ -2,9 +2,11 @@
 
 "i" is for "in"
 
-Change "everything in these quotes to your name" (use ci"... change in quotes))
+'Change everything in these quotes to your name'
 
-TRY ci{ (change in brackets)
+(move to within the quotes and use "ci'"... "change" "in" "quote")
+
+TRY "ci{" (change in brackets)
 
 int main(int argc, char *argv[]) {
     int i = 1;
@@ -12,10 +14,10 @@ int main(int argc, char *argv[]) {
     return 2;  // 3
 }
 
-TRY ci' (change in single quote)
+TRY ci" (change in double quote)
 
-(maybe use "/" to search for "value")
+(maybe use "/" to search for the string "value" below)
 
 {
-    iLikeThisKey: 'But I do not like this value',
+    iLikeThisKey: "But I do not like this value",
 }

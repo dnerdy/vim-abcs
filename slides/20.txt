@@ -3,3 +3,12 @@
 "w" is for "word"
 
 DELETE THIS SENTENCE ONE WORD AT A TIME (use "dw")
+
+pick 0cd3d5a Commit one
+pick 7990425 Commit two
+pick 708f5f0 Whoops... this is a tweak of commit one
+pick 6cb32b3 Commit four
+
+MOVE THE "Whoops" LINE UNDER COMMIT ONE AND CHANGE "pick" TO "squash" using "dw"
+
+(You also could have used "cw": "change" "word". Remember, you can undo with "u")

@@ -2,6 +2,10 @@
 
 "t" is for "to"
 
-CHANGE THIS LINE BY DELETING EVERYTHING UP TO: Hello there!
+CHANGE THIS LINE BY DELETING EVERYTHING UP TO: KEEP ME!
+
+(type "dtK")
+
+CHANGE THIS LINE BY DELETING EVERYTHING UP TO: HERE
 
 (use "dtH" and "." to repeat the action)

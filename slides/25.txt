@@ -8,13 +8,19 @@ Some lines are short.
 Some lines are way too long... I mean longer than our linter would be happy with at least.
 Give it some style.
 
-SET THE FILE TYPE TO PHP ":set filetype=php"
+
+NOW SET THE FILE TYPE TO PHP ":set filetype=php"
 
 # gq even works with comments. Try reformatting this comment
 # line you formatted the paragraph above. Then
 # follow the directions below.
 
-COPY THE ABOVE BLOCK (visual line mode, "y" and "p")
-THEN INDENT THE BLOCK AND GIVE IT SOME STYLE.
+MAKE THE COMMENT ABOVE LOOK LIKE:
 
-// This works for all sorts of comments. We set the file type to php because php supports a bunch of comment types.
+                        # gq even works with comments. Try reformatting this
+                        # comment line you formatted the paragraph above. Then
+                        # follow the directions below.
+
+(use "V" to select the comment, then ">" and "." followed by "V" and "gq")
+
+// This works for all sorts of comments. We set the file type to php because php supports several different comment styles.
