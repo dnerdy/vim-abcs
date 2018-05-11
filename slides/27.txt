@@ -1,0 +1,26 @@
+":" can be used to go to a specific line
+
+(by the way, type ":set number" to see line numbers)
+
+NOW GO TO LINE 24 BELOW
+
+(type ":24")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AWESOME!
+
+(this is perfect to stack traces that give you line numbers)

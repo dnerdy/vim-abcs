@@ -1,1 +1,12 @@
-Did you write to this slide?
+":w" is for "write"
+
+WRITE THIS FILE TO "/tmp/slide.txt" BY TYPING ":w /tmp/slide.txt"
+
+
+NOW GO BACK TO THE WINDOW ABOVE (^w^w) ...
+AND EDIT "/tmp/slide.txt" BY TYPING ":e /tmp/slide.txt"
+
+
+You can close the window by typing ":q"
+
+CLOSE THE WINDOW NOW  (do this in the top window)

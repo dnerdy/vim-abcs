@@ -1,7 +1,9 @@
-":w" is for "write"
+":split" is for "splitting" the window
 
-WRITE THIS FILE TO SLIDE 27 WITH ":w slides/27.txt"
+TYPE ":split" NOW
 
-... ":w! slides/27.txt ;)
+GO TO THE WINDOW BELOW BY TYPING "^w^w" (that's control-w control-w)
 
-(SKIP THESE DIRECTIONS IF ON SLIDE 27)
+
+
+NOW GO TO THE NEXT SLIDE

@@ -1,7 +1,8 @@
-":s" is for "search and replace"
+":s" is for "substitute"
 
 MAKE THE FILE ALL GOOD WITH ":%s/bad/good/g"
 
+("%" is a range that means "the whole file")
 
 good
 good

@@ -1,17 +1,7 @@
-SELECT WITH SEARCH BY TYPING "V/comment" (and try "n")
+SELECT WITH SEARCH BY TYPING "V/the" (and also try typing "n")
 
-This is some poorly formatted text.
-Some lines are short.
-Some lines are way too long... I mean longer than our linter would be happy with at least.
-Give it some style.
-
-SET THE FILE TYPE TO PHP ":set filetype=php"
-
-# gq even works with comments. Try reformatting this comment
-# line you formatted the paragraph above. Then
-# follow the directions below.
-
-COPY THE ABOVE BLOCK (visual line mode, "y" and "p")
-THEN INDENT THE BLOCK AND GIVE IT SOME STYLE.
-
-// This works for all sorts of comments. We set the file type to php because php supports a bunch of comment types.
+We the People of the United States, in Order to form a more perfect Union,
+establish Justice, insure domestic Tranquility, provide for the common
+defence,[note 1] promote the general Welfare, and secure the Blessings of
+Liberty to ourselves and our Posterity, do ordain and establish this
+Constitution for the United States of America.
