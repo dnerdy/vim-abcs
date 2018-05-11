@@ -1,6 +1,16 @@
-"A" is for "append"
+"J" is for "join"
 
-"A" will put you into insert mode at the end of the line.
+JOIN THE LINES BELOW BY MOVING TO "a" AND TYPING "J" A FEW TIMES
 
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i
 
-ARE YOU LIKING VIM? THINK CAREFULLY AND THEN TYPE "YES" OR "NO" HERE:
+UNDO WITH "u"
+

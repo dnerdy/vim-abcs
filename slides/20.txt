@@ -1,21 +1,5 @@
-"c" is for "change"
+"d" is for "delete"
 
-"i" is for "in"
+"w" is for "word"
 
-Change "everything in these quotes to your name" (use ci"... change in quotes))
-
-TRY ci{ (change in brackets)
-
-int main(int argc, char *argv[]) {
-    int i = 1;
-    i += 1;
-    return 2;  // 3
-}
-
-TRY ci' (change in single quote)
-
-(maybe use "/" to search for "value")
-
-{
-    iLikeThisKey: 'But I do not like this value',
-}
+DELETE THIS SENTENCE ONE WORD AT A TIME (use "dw")

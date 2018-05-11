@@ -1,20 +1,9 @@
-"gq" is for "Gentleman's Quartly?" (style)
+"V" is for "visual" line mode
 
-WRAP THE FOLLOWING LINES BY USING VISUAL LINE MODE AND "gq"
-
-
-This is some poorly formatted text.
-Some lines are short.
-Some lines are way too long... I mean longer than our linter would be happy with at least.
-Give it some style.
-
-SET THE FILE TYPE TO PHP ":set filetype=php"
-
-# gq even works with comments. Try reformatting this comment
-# line you formatted the paragraph above. Then
-# follow the directions below.
-
-COPY THE ABOVE BLOCK (visual line mode, "y" and "p")
-THEN INDENT THE BLOCK AND GIVE IT SOME STYLE.
-
-// This works for all sorts of comments. We set the file type to php because php supports a bunch of comment types.
+DELETE THESE LINES BY TYPING "V" AND THEN "j" (TO MOVE DOWN) AND THEN "d"
+DELETE THESE LINES
+DELETE THESE LINES
+DELETE THESE LINES
+DELETE THESE LINES
+DELETE THESE LINES
+DON'T DELETE ME

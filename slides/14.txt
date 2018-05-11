@@ -1,12 +1,12 @@
-"R" is for "replace"
+"y" is for "yank" (copy)
 
-MOVE DOWN TO THE THIRD CHARACTER OF THE HASHES BELOW, TYPE "R" AND TYPE
+You can yank a line by pressing "yy"
 
-("l" is under your ring finger and will move to the right)
+COPY THIS LINE AND PASTE IT BELOW.
+COPY THIS LINE AND PASTE IT BELOW.
+COPY THIS LINE AND PASTE IT BELOW.
+COPY THIS LINE AND PASTE IT BELOW.
 
-################################################################################
+"." will repeat your last action (whatever it was)
 
-
-## Here's an example of a nifty comment header #################################
-
-## Here's another example. The delete key also works! ##########################
+PASTE A FEW MOVE "COPY THIS LINES AND PASTE IT BELOW" LINES

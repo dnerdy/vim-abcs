@@ -1,9 +1,7 @@
-"V" is for "visual" line mode
+"d" is for "delete"
 
-DELETE THESE LINES BY TYPING "V" AND THEN "j" (TO MOVE DOWN) AND THEN "d"
-DELETE THESE LINES
-DELETE THESE LINES
-DELETE THESE LINES
-DELETE THESE LINES
-DELETE THESE LINES
-DON'T DELETE ME
+"t" is for "to"
+
+CHANGE THIS LINE BY DELETING EVERYTHING UP TO: Hello there!
+
+(use "dtH" and "." to repeat the action)

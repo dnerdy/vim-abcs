@@ -1,7 +1,5 @@
-"d" is for "delete"
+"D" is for "delete"
 
-"t" is for "to"
+"D" will delete the remainder of a line.
 
-CHANGE THIS LINE BY DELETING EVERYTHING UP TO: Hello there!
-
-(use "dtH" and "." to repeat the action)
+KEEP THIS. BUT DELETE THIS.

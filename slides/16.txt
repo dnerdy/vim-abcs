@@ -1,5 +1,12 @@
-"C" is for "change"
+"R" is for "replace"
 
-Type "C" to delete the remainder of a line and go into insert mode.
+MOVE DOWN TO THE THIRD CHARACTER OF THE HASHES BELOW, TYPE "R" AND TYPE
 
-CHANGE THIS LINE TO JUST: Hello there!
+("l" is under your ring finger and will move to the right)
+
+################################################################################
+
+
+## Here's an example of a nifty comment header #################################
+
+## Here's another example. The delete key also works! ##########################

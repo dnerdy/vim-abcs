@@ -1,4 +1,7 @@
-SELECT THE ENTIRE FILE WITH "VG"
+"gq" is for "Gentleman's Quartly?" (style)
+
+WRAP THE FOLLOWING LINES BY USING VISUAL LINE MODE AND "gq"
+
 
 This is some poorly formatted text.
 Some lines are short.
