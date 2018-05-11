@@ -1,6 +1,7 @@
 "*" will search for the text under the cursor.
 
-SEARCH FOR THE TEXT "pretty_print" BY MOVING TO THE LINE BELOW AND PRESSING "*"
+SEARCH FOR THE TEXT "pretty_print" BY MOVING TO THE LINE BELOW CONTAINING JUST
+THE WORD "pretty_print" AND TYPE "*"
 
 pretty_print
 

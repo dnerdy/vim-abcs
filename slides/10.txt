@@ -4,8 +4,8 @@
 
 REORDER THE LINES BELOW
 
-"p" will paste below the line the cursor is on
-"P" will paste above (P is taller... above?)
+"p" will paste the deleted line below the line the cursor is on
+"P" will paste the deleted line above (P is taller... above?)
 
 2. Move me down
 1. Line one. Don't move me.

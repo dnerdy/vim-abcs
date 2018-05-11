@@ -5,6 +5,6 @@ AND DELETE ME
 
 NOW UNDO
 
-"^r" will redo
+"^r" (that's control-r) will redo
 
 GO BACK TO THE ORIGINAL STATE OF THIS FILE

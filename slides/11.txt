@@ -3,7 +3,9 @@
 You can create (open) a new line below the current line by typing "o"
 You can create a new line above by typing "O"
 
+("o" will put you into insert mode. Remember, you can return to command mode by
+typing ESC)
 
-1. Line one. Add line two below.
+1. Line one. ADD A "Line two" BELOW.
 ############################################################
-4. Line four. Add line three above.
+4. Line four. ADD A "Line three" ABOVE.

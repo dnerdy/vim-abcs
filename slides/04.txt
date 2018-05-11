@@ -1,4 +1,4 @@
-Also, you can press "_" to go back to the previous slide!
+Remember, you can type "_" to go back to the previous slide!
 
 "d" is for "delete"
 

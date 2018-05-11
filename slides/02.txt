@@ -1,0 +1,18 @@
+A quick note about modes
+
+Vim has two main modes: command mode and insert mode
+
+If the text you're typing isn't showing up,
+
+    ...you're probably in command mode
+
+If the text you're typing is showing up,
+
+    ...you're in insert mode
+
+After entering text, type ESC (that's the escape key) to go back to command
+mode. You'll usually want to go back into command mode when you finish typing
+something.
+
+
+TYPE "+" TO GO TO THE NEXT SLIDE
