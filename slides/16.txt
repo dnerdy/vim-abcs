@@ -1,5 +1,5 @@
-"D" is for "delete"
+"C" is for "change"
 
-"D" will delete the remainder of a line.
+Type "C" to delete the remainder of a line and go into insert mode.
 
-KEEP THIS. BUT DELETE THIS.
+CHANGE THIS LINE TO JUST: Hello there!

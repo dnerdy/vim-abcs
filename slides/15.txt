@@ -1,5 +1,6 @@
-"C" is for "change"
+"A" is for "append"
 
-Type "C" to delete the remainder of a line and go into insert mode.
+"A" will put you into insert mode at the end of the line.
 
-CHANGE THIS LINE TO JUST: Hello there!
+
+ARE YOU LIKING VIM? THINK CAREFULLY AND THEN TYPE "YES" OR "NO" HERE:

@@ -1,12 +1,9 @@
-"y" is for "yank" (copy)
+"o" is for "open"
 
-You can yank a line by pressing "yy"
+You can create (open) a new line below the current line by typing "o"
+You can create a new line above by typing "O"
 
-COPY THIS LINE AND PASTE IT BELOW.
-COPY THIS LINE AND PASTE IT BELOW.
-COPY THIS LINE AND PASTE IT BELOW.
-COPY THIS LINE AND PASTE IT BELOW.
 
-"." will repeat your last action (whatever it was)
-
-PASTE A FEW MOVE "COPY THIS LINES AND PASTE IT BELOW" LINES
+1. Line one. Add line two below.
+############################################################
+4. Line four. Add line three above.

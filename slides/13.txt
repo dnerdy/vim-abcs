@@ -1,12 +1,16 @@
-"R" is for "replace"
+"J" is for "join"
 
-MOVE DOWN TO THE THIRD CHARACTER OF THE HASHES BELOW, TYPE "R" AND TYPE
+JOIN THE LINES BELOW BY MOVING TO "a" AND TYPING "J" A FEW TIMES
 
-("l" is under your ring finger and will move to the right)
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i
 
-################################################################################
+UNDO WITH "u"
 
-
-## Here's an example of a nifty comment header #################################
-
-## Here's another example. The delete key also works! ##########################

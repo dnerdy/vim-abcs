@@ -1,21 +1,7 @@
-"c" is for "change"
+"d" is for "delete"
 
-"i" is for "in"
+"t" is for "to"
 
-Change "everything in these quotes to your name" (use ci"... change in quotes))
+CHANGE THIS LINE BY DELETING EVERYTHING UP TO: Hello there!
 
-TRY ci{ (change in brackets)
-
-int main(int argc, char *argv[]) {
-    int i = 1;
-    i += 1;
-    return 2;  // 3
-}
-
-TRY ci' (change in single quote)
-
-(maybe use "/" to search for "value")
-
-{
-    iLikeThisKey: 'But I do not like this value',
-}
+(use "dtH" and "." to repeat the action)

@@ -1,7 +1,16 @@
-":w" is for "write"
+":s" is for "search and replace"
 
-WRITE THIS FILE TO SLIDE 27 WITH ":w slides/27.txt"
+MAKE THE FILE ALL GOOD WITH ":%s/bad/good/g"
 
-... ":w! slides/27.txt ;)
 
-(SKIP THESE DIRECTIONS IF ON SLIDE 27)
+good
+good
+bad
+good
+bad
+bad
+bad
+bad
+bad
+bad
+good

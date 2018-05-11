@@ -1,4 +1,4 @@
-SELECT WITH SEARCH BY TYPING "V/comment" (and try "n")
+SELECT THE ENTIRE FILE WITH "VG"
 
 This is some poorly formatted text.
 Some lines are short.

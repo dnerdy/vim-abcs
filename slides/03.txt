@@ -1,7 +1,11 @@
-Also, you can press "_" to go back to the previous slide!
+Let's move around the file!
 
-"d" is for "delete"
+"j" is under your index finger of your right hand.
+"j" moves down.
 
-You can delete a line by pressing "dd"
+MOVE DOWN TO THIS LINE
 
-MOVE DOWN TO THIS LINE AND DELETE IT
+"k" is next to j, under your middle finger.
+"k" moves up.
+
+MOVE BACK UP TO THE TOP OF THE FILE, THEN PRESS "+" TO GO TO THE NEXT SLIDE

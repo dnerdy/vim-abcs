@@ -1,21 +1,14 @@
-"/" (slash) is for "search"
-
-Moving around with "j" and "k" can be a bit tedious.
-
-You can move around by searching.
-
-Type "/whatever" to search for the text "whatever"
+DELETE THE LINES IN ORDER
 
 
+1. DELETE THIS LINE
+BUT NOT THIS LINE
+3. DELETE ME
 
 
+2. DELETE THIS ONE TOO!
 
 
 
 
-
-
-
-
-
-MOVE DOWN TO THIS LINE AND DELETE IT BY SEARCHING FOR THE TEXT "HERE"
+4. AND THIS ONE!
